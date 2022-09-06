@@ -1,0 +1,28 @@
+.custom-bg{
+    background: #4527a0!important;
+}
+
+.card-bacground .card{
+    border: 1px solid #4527a0;
+}
+
+.card-bacground .card:hover{
+    background: #e2e2e2;
+    cursor: pointer;
+}
+
+.list-group-item.active {
+     background: #4527a0!important;
+     border-color: #4527a0!important;
+}
+
+.discount-label{
+    font-size: 12px!important;
+    font-style: italic!important;
+    
+}
+
+.price-decorate{
+   font-size: 16px!important;
+    font-style: italic!important;
+}
